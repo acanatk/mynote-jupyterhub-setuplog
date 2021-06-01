@@ -17,4 +17,4 @@ Sphinx==1.6.2
 sphinxcontrib-websupport==1.0.1
 sphinxjp.themes.basicstrap==0.4.3
 typing==3.6.1
-urllib3==1.21.1
+urllib3==1.26.5
